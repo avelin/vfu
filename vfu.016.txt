@@ -1,0 +1,1359 @@
+ █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+ █    ███  ███   ██   ████████   ███  ███   ████████    ▒▒▒▒      ▓▓▓  ▓▓▓    █
+ █   ████  ████ ████ ████  ████ ████  ████ ████  ████   ▒▒▒▒     ▓▓▓▓  ▓▓▓▓   █
+ █   ████  ████ ████ ████  ████ ████  ████ ████   ██   ▒▒▒▒      ▓▓▓▓  ▓▓▓▓   █
+ █   ████  ████ ████ ████ ████  ████  ████  █████      ▒▒▒▒ ▒▒▒  ▓▓▓▓  ▓▓▓▓   █
+ █   ████  ████ ████ ████████   ████  ████     █████  ▒▒▒▒ ▒▒▒▒  ▓▓▓▓  ▓▓▓▓   █
+ █   ████  ████ ████ ████ ████  ████  ████ ███   ████ ▒▒▒▒▒▒▒▒▒▒ ▓▓▓▓  ▓▓▓▓   █
+ █    ████████  ████ ████  ████ ██████████ ████  ████      ▒▒▒▒  ▓▓▓▓▓▓▓▓▓▓   █
+ █      ████     ██   ███  ███   ████████   ████████       ▒▒▒▒   ▓▓▓▓▓▓▓▓    █
+ █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+
+   бодлива тел             Независимо файлово издание            бодлива тел
+  / do not cross                                               do not cross \
+─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─
+ /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+ Брой 16, 08.03.1997 год. цена ─ без, 43210 bytes, застраховано във ВИРУС 2 АД.
+ \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─
+ /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+ Списва, издава, предава и продава БКП(о),  орган на ДКМС,  член на всички нас
+ \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─
+ /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+ Изданието е официално закрито, вие не четете негов брой, а дишате райски газ.
+ \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─*─
+ /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+   \  опасно за живота                                    опасно за живота  /
+   /  high voltage                                             high voltage \
+ \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+
+
+  O /                         SOFTWARE POLICE LINE                         \ O
+───x────────────────────────────────────────────────────────────────────────x──
+  O \                            DO NOT CROSS!                             / O
+
+
+
+ Днес в новата ни рубрика:
+                                       ▄▄   ▄██▄
+┌─┐    ┌──────┐ ┌──────┐ ┌─────┐      ████  ████
+│ │    │ ┌──┐ │ │ ┌────┘ │ ┌───┘      ████▄▄████
+│ │    │ │  │ │ │ │ ┌──┐ │ └───┐      ▀█████████       ┌─┐ ┌─┐
+│ │    │ │  │ │ │ │ └┐ │ └───┐ │            ████       │ │ │ │
+│ └──┐ │ └──┘ │ │ └──┘ │ ┌───┘ │            ▀██▀       │ │ │ │
+└────┘ └──────┘ └──────┘ └─────┘                       │ │ │ │
+                                                       │ └─┘ │
+                                                       └─────┘
+
+        четете скандални логове с участието на следните лица:
+
+        * argus@ttm.bg, codyup@ttm.bg, hpetrov@ttm.bg, vbotchev@ttm.bg
+
+        * Daniel Katev, Тотко и една програма.
+
+
+
+    ▄═─═─═─═─═▄═▄═                                        ▄═─═─═─═─═▄═▄═
+   ░▀░▄  V.F.U. ▀░▄░   Клуб "Десет Малки Варненчета"     ░▀░▄  V.F.U. ▀░▄░
+    ═▀═▀═─═─═─═▀═▀═                                       ═▀═▀═─═─═─═▀═▀═
+
+
+              ┌────────────────────────────────────────────────┐
+              │ *** Стил 24 Часа ON *** 24 Hours' style ОН *** │
+              └────────────────────────────────────────────────┘
+
+
+            Истината за гигантският компютърен обир по интернет
+
+            Класификация на компютърните бандити и иже креатури
+
+   ┌──────┐  ┌──────┐  ┌──────┐  ┌──────┐    ┌──────┐           ┌──────┐
+   │ //// │  │ ())) │  │ \\\\ │  │ |||| │    │ &&&& │           │ЦЕН-  │
+   │ |oo| │  │ |oo| │  │ |ox| │  │ |**| │    │ Cc)| │           │  ЗУ- │
+   │ ("") │  │ (`') │  │ (=-) │  │ (`') │    │ |_ ) │           │  РИ- │
+   │  ^^  │  │  ~~  │  │  ``  │  │  ~~  │    │  ~~  │           │   РАН│
+   └──────┘  └──────┘  └──────┘  └──────┘    └──────┘           └──────┘
+    Хакер     Кракер  Компютърен  Кракер       Жени              Куерти
+                        пират   след арест
+
+
+
+             ┌───────────────────────────────────────┐
+             │     СХЕМА НА ДЕЙСТВИЕТО (ACTION)      │░░
+             └───────────────────────────────────────┘░░
+                 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+
+
+  ┌───────────┐ известява ┌───────────┐           ┌───────────┐
+  │Американска│──────────>│ Президент │ свъзва се │ Посолство │───────┐
+  │  фирма за │           │US   и   US│    със    │ на USA в  │нарежда на
+  │ доставки  │──┐        │  конгрес  │──────────>│ България  │  ┌────────┐
+  └───────────┘  │изпраща └───────────┘           └───────────┘  │ COS(i) │<┐
+ Тегли│         │стоката на       телефонира и обсъжда проблема └────────┘ │
+  пари│ │оплаква └───────┐         ┌───────────────────────┐                │
+      │ │   се                      със                  │ председателства│
+       │               ┌───────────┐         ┌───────────┐│       ┌──────┐ │
+  ┌───────────┐крадат cc│ The fraud │интервю- │ Миролюба  │└───────│ Жени │─┘
+  │ Германски │<────────│ guys from │<────────│  Бенатова │  дава  └──────┘
+  │ гражданин │   от    │   Varna   │    ира  └───────────┘ разпечатани │
+  └───────────┘пише тъпи└───────────┘          │ │ │  │   писма от Фидо│
+  ┌────────────┐статии за e-mail ││           │ │ │  │  └──────────────┘
+  │  вестник   │─────────┘bomb-ват││           │ │ │  │пише статия ┌─────────┐
+  │ Черноморие │<─────────────────┘│           │ │ │  └───────────>│ 168часа │
+  └────────────┘                   │натопяват  │ │ │       във     └─────────┘
+ ┌─────────────────────────────────┘           │ │ │                      
+ │ ┌───────────────────────────────────────────┘ │ │                      │
+ │ │                  ┌──────────────────────────┘ │интервюира            │
+ │ │         интер-   │  вюира    ┌────────────────┘неколкократно         │
+ │                                                                     │
+ │┌───────────┐┌──────────────┐┌─────┐  четат на висок глас на сборището  │
+ ││ Соломон   ││ 30год. спец. ││ Куе │  си Майорка, смеят се и разпознават│
+ ││ the Vlah  ││ от СБТК (ИБ) ││ рти │  свои реплики ┌────────────────────┘
+ │└───────────┘└──────────────┘└─────┘               │  тихичко се надсмива
+ │      └─────────────────────────┴──────────────────┘   над цялата история
+ │ ┌───────┐излиза от┌────────┐ ┌──────────┐не бръсне ┌─────────────┐     
+ └>│ Д. К. │────────>│ Затвор │ │ Диана П. │─────────>│ Dark Avenger│─────┘
+   └───────┘         └────────┘ └──────────┘и за слива└─────────────┘
+
+           <б.р. не публикуваме пълната схема поради липса на място>
+
+
+                       Подробно описание на действието
+         <б.р. наложи се да го цензурираме, защото е следствена тайна>
+
+            ┌──────────────────────────────────────────────────┐
+            │ *** Стил 24 Часа OFF *** 24 Hours' style ОФФ *** │
+            └──────────────────────────────────────────────────┘
+                                                    └─────┘
+
+
+
+
+
+           ▄═─═─═─═─═▄═▄═     ───────────────    ▄═─═─═─═─═▄═▄═
+          ░▀░▄  V.F.U. ▀░▄░   Глас от Космоса  ░▀░▄  V.F.U. ▀░▄░
+           ═▀═▀═─═─═─═▀═▀═    ───────────────   ═▀═▀═─═─═─═▀═▀═
+
+         Наш сътрудник успя да засече WW-кодирано съобщение от
+   неизвестен галактически разум. Публикуваме го без редакция, първия
+   който го разкодира печели лек автомобил Пежо, 10 перални Зероват, 25
+   уредби Панасоник, 100 автокасетофона и много други вълнуващи награди.
+
+   -===-=-=-=-*WWмессажжBBEEGGIINN*666*hell*-=-=-=-===-=---==
+   МАмАМАмАмАмАМмАМАмамАМАмАмАМАмАмАмАмАмамаАМАМаМАМаММААМаМамаМАМаМаМмамА
+   тАтатАтаТАТаТТАтатАтатАтатататАТтатаТАтАтаТаТАТтаТАтАТАТтАТАТТАТАтАТАТА
+   СИиСиСИиСисиисиисисИСиСиСиСисИСИСИсиисиисиСиСисисиСиСиСиСиСисисисИИииси
+   ТРТтртртртРтРтрТрТрАРАрарАкАкакАкАкакАКАКакАКкакАкАКакАкАКкАкАКкАКкАакА
+   МОомомомомомМоМоМмОммОмОмоМоМомОмОМоМоМжЕЖежжЕЖежежежеЖЕжЕжежежежежЖЕже
+   ИИИииИииииииииИИИииИиИиииИиИИииииииИИиИИиИИииИИИиИИиИиИиИииИиИИиИИиИиИИ
+   ДдаддДаддАДдАДдАДдАдДАдАДдадАДдАддадаДддадАдАдадАдАДАДАДАДАДАДдАдаддада
+   НЕнеНЕЕНнЕнЕнЕНЕННЕнНЕннЕНнЕНнЕНнЕнНЕннЕНЕНнЕНнЕНЕНнЕНнНнененЕНнЕнненнЕ
+   СЕсЕсеСЕСесЕСЕсЕСЕсееСЕсЕСЕсесЕСесЕсеСеСеЕСеСЕСесЕСЕсЕсеСЕСесЕСЕСеСЕСсЕ
+   ОПопОопоПОпоПопОПопРарАрАРрАРраРРАРРрАРарарАРАВиВИВИИВИВиТЕтЕТтЕТтЕтЕТЕ
+   -===-=-=-=-*WWмессажжEENNDD*JK2435KJ243*CcSum*-=-=-=-===-=---==
+
+
+
+
+
+
+
+            ▄═─═─═─═─═▄═▄═      =-=-=-=-=-=     ▄═─═─═─═─═▄═▄═
+           ░▀░▄  V.F.U. ▀░▄░    Малки обяви    ░▀░▄  V.F.U. ▀░▄░
+            ═▀═▀═─═─═─═▀═▀═     -=-=-=-=-=-     ═▀═▀═─═─═─═▀═▀═
+
+
+
+        Само аз зная, дали наистина sgroud-ът е хакнат от доктор Шаралан.
+
+                                                Света София
+
+
+          Честна дума, не съм аз!
+                                      Doc
+
+
+   Не ми харесва как ме гледаш!
+                                naked-gun.sad_lovers@users.techno-link.com
+
+
+              Only the good die young
+                                       D. A. (still alive)
+
+
+      Абе, хора, защо не казвате, че netmask 0.0.0.0 е невалиден?!?
+                                                                     Niko
+
+
+     Поради технически причини абонатът не може да бъде избран.
+                                                                  БТК
+
+
+           (Платена) Мястото на менютата е само при нас!
+
+                                              "Миз Каприз"
+
+           Всички за 3 -- в стая 303.
+                                         Катедра ВиС.
+
+
+        Новият ни лозунг е: "Access Denied"
+
+                                           Софийско Borland Общество.
+
+
+         Люси, каня те на среща f2f, пицарията е по твой избор, но може ли
+някак си без татко ти?
+                                                        Косьо
+
+        Валери, а фиксна ли бъговете в бъг-фиксовете?
+                                                          Шефът
+
+
+     Мечо, случайно да си ме локнал на 1200? Моля те, погледни!
+
+                                                              Вельо Р.
+
+
+    Поради факта, че имаме нова, 64K, свръхбърза линия през Global 1,
+    за известно време ще работим малко по-бавно.
+                                                   Postmaster@ttm.bg
+
+
+        Не е вярно, че сме имали само 5 попа! Имали сме 20 -- още 15
+        поканихме да осветят офиса!
+                                        ?? ? ?  ISP
+
+
+        Не само трейстута, Митко, забрави да замаскираш пинговете.
+
+                                                        Спектрунков
+
+
+      Никаква "Света Неделя", бе хора, това бяха само няколко компютъра!
+
+                                  Красимир Райдовски, Бивш Началник прАсцентър
+
+
+        На всички CIS WinSock-аджии предлагам upgrade до ЦИЗ ВинЧували.
+Специална отстъпка за потребителите на SCITOR.
+                                                И.Татарчев
+(*) ЦИЗ - Централен Идиот-Затвор
+    ВинЧувал - Чувал за Виновни
+
+
+        Тайна бележка: във view-ера към VFU.016 има няколко скрити клавиша.
+  Някои от тях са опасни, други не.  Внимавайте какво натискате в
+  дясната част на клавиатурата!
+                                        Редколегията на VFU.
+
+
+        Иванчо, не се вини за случилото се, моето сърце и без това си беше
+    слабо. P.S. можеш ли да ми донесеш цигари, лекарите нещо не дават.
+
+                                                           Тодоров Старши
+
+
+0x7c0802a6 , 0x9421fbb0 , 0x90010458 , 0x3c60f019 , 0x60632c48 ,
+/* AIX 4.1 for PowerPC 601,604 */
+0x90640440
+... грешка, беше 0x90610440
+3c602f62        cau     r3,r0,0x2f62 --'/bin/sh\x01'
+gethostbyname((char *)&boza)
+.........А!... Някой може ли да ми каже, защо изведнъж станах root?
+
+                                 guninski@hotmail.com
+
+
+     Хора, помощ! Натопиха ме тези, които наистина разфасоваха ко(т)летите!
+
+                                                    КасаПов.
+
+   Продава се роб, бял, млад, интелигентен, работлив, цена по споразумение.
+
+                                                Аналогови Системи - Алабама
+
+
+
+
+
+
+               ▄═─═─═─═─═▄═▄═     -=-=-=-=     ▄═─═─═─═─═▄═▄═
+              ░▀░▄  V.F.U. ▀░▄░   Биология    ░▀░▄  V.F.U. ▀░▄░
+               ═▀═▀═─═─═─═▀═▀═    =-=-=-=-     ═▀═▀═─═─═─═▀═▀═
+
+
+
+                    [[]]   ___
+                          [___]
+                 [[]]       ___
+                           [___]
+              [[]]        ___
+            [[]]       __[___]
+            [[]]     _[___]
+              [[]] _[___]
+                [[[___]
+               _[___]
+             _[___] [[]]
+            [___]     [[]]
+           [___]__     [[]]
+              [___]  [[]]           Фиг. 1.  Разлагането на българският ген
+
+
+
+
+
+
+
+          ▄═─═─═─═─═▄═▄═                       ▄═─═─═─═─═▄═▄═
+        ░▀░▄  V.F.U.  ▀░▄░     Виц на броя   ░▀░▄  V.F.U.  ▀░▄░
+         ═▀═▀═─═─═─═▀═▀═                      ═▀═▀═─═─═─═▀═▀═
+
+
+        Попитали радио Ереван: Под каква платформа работи най-бързо
+MiroSoft Office'97.
+
+        Отговор: Слайд проектор!
+
+
+
+
+
+
+
+
+       ▄═─═─═─═─═▄═▄═                              ▄═─═─═─═─═▄═▄═
+     ░▀░▄  V.F.U.  ▀░▄░     Минути за поезия     ░▀░▄  V.F.U.  ▀░▄░
+      ═▀═▀═─═─═─═▀═▀═                             ═▀═▀═─═─═─═▀═▀═
+
+                           Днес рубриката води
+                           Трендафил И. Акациев
+
+
+        "Мъж е онзи, който върже гащи,
+        а писател -- който знай да дращи..."
+
+                           Петко Славейков
+
+
+
+
+        СЪВЕТ
+        -----------------------
+        Трендафил И. Акациев
+
+        Ако от болест някаква гориш,
+        със аспирин жарта ще угасиш.
+
+        Ако напишеш бъгава програма,
+        кажи на боса, че проблеми няма.
+
+        Ако гориш, запален от идея,
+        ще ахнеш от учебници за нея.
+
+        А ако твоя Windows се гъбари,
+        преинсталирай всичко и ще се оправи.
+
+        Но имаш ли любов несподелена,
+        пийни си чаша със вода студена.
+
+                ┌─────┬─────┐
+                │     │     │
+                │  Т  │  А  │
+                          
+
+
+
+
+
+        ВАРНЕНСКИ СЪЗВУЧИЯ
+        -----------------------
+        (Трендафил И. Акациев)
+
+        Щраква SprintNet,
+        свирва модем,
+        кракерът клет
+        плясва засмен!
+
+        Промптът излиза,
+        чува се лодка.
+        В затвора наблизо
+        има разходка.
+
+        Бийпър: пи-пи,
+        WinSock: PPP,
+        млад колетар(*),
+        използва tar.
+
+ (*)    Колетар: (1) който си поръчва колети.
+                 (2) който лети (нанякъде).
+
+        ┌─────┬─────┐
+        │     │     │
+        │  Т  │  А  │
+                  
+
+
+
+
+
+        ЩО Е OLE?
+        --------------------
+        Трендафил И. Акациев
+
+        Говорят, че OLE е птиче,
+               играещо със слънчев лъч
+          хлапе!
+        О, на катъра версия 2 прилича,
+              не зная аз кога ще хвърли къч
+          G.P.!
+
+                  ┌─────┬─────┐
+                  │     │     │
+                  │  Т  │  А  │
+                            
+
+
+
+
+        ГЕРОЙСТВОТО В USER-а
+        --------------------
+        от The Creater
+
+        На всички юзери по случай 8 март.
+
+        Часът 1 е, отхвърляш свойто одеяло
+        и продължително се услушваш:
+        Спи веч родителското тяло.
+        => тихо компютъра си пускаш ...
+
+        Светва монитора ярко в очите,
+        спийкъра биипва силно в ушите,
+        харда изчатква няколко пъти,
+        докато си жив ще дразни слуха ти.
+
+        Ослушваш се пак. Ах каква драма!
+        Стартираш свойта терминална програма.
+        Сетваш модем, телефони подреждаш
+        още сънлив в терминала се вглеждаш.
+
+        Зяпаш щастлив, ББС-а избираш
+        щраква модема и ето -- набираш.
+        Минава секунда, минава и втора
+        услушваш се: Мама не е в коридора.
+
+        Решаваш, че утре ще мъстиш на спиикъра
+        Ядно изключваш на терминала бийпъра.
+        Монитора блясва, просветва CONNECTED
+        CARRIER at 9600 detected!
+
+        Влизаш във main-a и yell-ваш sysop-а,
+        няма го, супер, изчезна циклопа!
+        Яхваш download-а и почваш езда,
+        тъй да се каже, звезда със звезда.
+
+        И когато омразното
+        NO CARRIER-образното...
+        В твойта глава
+        витае БТК!
+
+         o/
+        <|   The Cheater
+        / >
+
+
+
+
+
+
+       ▄═─═─═─═─═▄═▄═                                   ▄═─═─═─═─═▄═▄═
+     ░▀░▄  V.F.U.  ▀░▄░  В редакцията през седмицата  ░▀░▄  V.F.U.  ▀░▄░
+      ═▀═▀═─═─═─═▀═▀═                                   ═▀═▀═─═─═─═▀═▀═
+
+
+        В столичното кафене "Майорка" има двама неизвестни варненци. Редактор
+на списанието разсеяно се обръща към един от тях:
+
+        --- Има ли още нещастни "хакерчета" в затвора.
+
+        --- Не, пуснаха ги всичките -- отговаря варненецът.
+
+        --- Добре де, а бедният Деянчо Касабов не е ли под арест.
+
+        --- Не, пуснаха го. -- продължава да отговаря варненецът с тъжен
+глас. След кратък размисъл допълва:
+
+        --- Казвам се Деян.
+
+
+
+        * * *
+
+
+
+        Надпис върху стената на MicroCOMM:
+
+        Posted on Thu 03-06-1997
+
+: Elena ili ne znaq kak e twoeto ime. Ti, koqto si ot klasicheskata gimnaziq i
+: mrazish Ogy Radev(?). Imenata na horata, koito sa se bazikali s teb
+: ot moe ime predi nqkolko syboti sa Ilia Bojinoff i Vladislav Lambrew.
+: Az nqmam nishto obshto s towa!!! Ako iskash, pishi mi! Kosio
+:
+
+        Бележка на Косьо: Момичето е влязло през акаунта "guest of kosio"
+и е било "чатнато" от двама мои колеги, от името на "Косьо Спиров". Две
+седмици по-късно двамата си признаха всичко, а аз щях да потъна в дън земя.
+Моля някой да ме свърже с нея...
+
+
+
+
+
+
+
+   ▄═─═─═─═─═▄═▄═                                       ▄═─═─═─═─═▄═▄═
+ ░▀░▄  V.F.U.  ▀░▄░  Документи от Световната История  ░▀░▄  V.F.U.  ▀░▄░
+  ═▀═▀═─═─═─═▀═▀═                                      ═▀═▀═─═─═─═▀═▀═
+
+           АКО FIDONET-БЪЛГАРИЯ БЕШЕ СЪЗДАДЕН МАЛКО ПО-РАНО:
+           -------------------------------------------------
+
+
+- Area: Bg.Science -----------------------------------------------------------
+  Msg#: 156                                          Date: 03-25-1912  17:13
+  From: Модераторът                                  Read: Yes
+    To: Алберт Айнщайн                               Mark: No
+  Subj: идея                                          Grp: Fido, Net350
+------------------------------------------------------------------------------
+
+Алберт Айнщайн е набеден, че в съобщение до All е казал:
+
+AA>  __
+AA> |_   ==  _ _   _2
+AA> |__     | | | |_
+AA>
+
+Така си мислиш само и OUT_OF_TOPIC!!!!!! Писна ми вече от твоите
+щуротии! Последно предупреждение и ще получиш read only access за 10
+дена! Не ми пука дали си учен, физик, или не знам си к'во, държиш се точно
+като моя даскал по физика. Освен това искам да отбележа, че маса не може
+да преминава в енергия, а светлината не се движи! Престани да си правиш
+майтапи с нас и прояви някакво уважение към общността ни, ако желаеш
+повече да пишеш съобщения във Fido. За идиоти ли ни смяташ?
+
+[+]
+
+P.S. Омръзна ми еврейски фанатици! Бих те посъветвал да прочетеш книгата
+"Световната Конспирация" на Никола М. Николов, там пише всичко за теб
+и твоята псевдотеория.
+
+P.P.S. Предай на масоните да зарибяват другаде. Тук не е мястото, където
+могат безнаказано да провеждат своите гнусни конспирации!
+
+    Без уважение,
+                          Модераторът
+
+
+
+
+
+             ▄═─═─═─═─═▄═▄═    А Л Ф А - Б Е Т А     ▄═─═─═─═─═▄═▄═
+            ░▀░▄  V.F.U. ▀░▄░     Икономическа     ░▀░▄  V.F.U. ▀░▄░
+             ═▀═▀═─═─═─═▀═▀═       Информация       ═▀═▀═─═─═─═▀═▀═
+
+(б.р. и тук цензурирахме, но какво да се прави, трябва да се яде, не
+можем току-така да си хвълрим хляба (парите за реклама) в гората, да го
+ядат вълците. под реклама разбирайте, че определени кръгове (приятелски,
+разбира се) ни плащат, за да мълчим това, което знаем)
+
+      ...
+
+      Официално съобщение на БНБ: "От първо число на месец Април в
+обръщение влизат новите банкноти от 100000 лева. Те ще могат да бъдат
+различавани от фалшивите по златната бродерия, вградената сребърна нишка
+и лика на известния земеделски деец Манастас О'звер".
+
+      Злите езици говорят, че гореспоменатите мерки са излишни, защото и
+най-истинския, заклетия, безстрашен и зъл компютърен пират не би могъл да
+фалшифицира банкнотата, тъй като поглеждайки изобразения на нея образ, веднага
+се сеща колко е красив Фреди от улица Елм, и започва да рисува него.
+
+
+
+
+
+       ▄═─═─═─═─═▄═▄═                    ▄═─═─═─═─═▄═▄═
+     ░▀░▄  V.F.U.  ▀░▄░  TTM For You    ░▀░▄  Логове ▀░▄░
+      ═▀═▀═─═─═─═▀═▀═                    ═▀═▀═─═─═─═▀═▀═
+
+         (Непубликувана част от текста във VFU.14, напомняме, че този
+         текст е upload-нат през account-а "guest" на един столичен BBS)
+
+
+
+          ----------------------------------------
+          Никой не е забравен, нищо не е забравено
+          ========================================
+
+           Nov 20 14:45  whois argus
+                                     argus@ttm.bg
+           Oct 28 18:26  whois whois
+                                     bbg@ttm.bg
+           Oct 02 17:13  whois dessi
+                                     codyup@ttm.bg
+           Nov 09 00:09  whois mila
+                                   ei@ttm.bg
+           Nov 09 10:32  whois fff
+                                    hpetrov@ttm.bg
+           Sep 12 08:47  whois iva
+                                     iexpress@ttm.bg
+           Dec 11 22:53  whois credit
+                                      lavp@ttm.bg
+           Dec 19 14:23  whois bg
+                                     nordstar@ttm.bg
+           Sep 02 16:46  whois Tanya
+                                     tsavov@ttm.bg
+           Dec 07 19:22  whois botcheva
+                                        vbotchev@ttm.bg
+
+
+
+
+
+
+                          _ _ _ _ _ _ _ _ _ _ _
+     ▄═─═─═─═─═▄═▄═     У-у-у-у-у-у-у-у-у-уууууу!      ▄═─═─═─═─═▄═▄═
+   ░▀░▄  V.F.U.  ▀░▄░    -═-═-═--═-═-═--═-═-═-═      ░▀░▄  V.F.U.  ▀░▄░
+    ═▀═▀═─═─═─═▀═▀═     Днес рубриката води Kosir      ═▀═▀═─═─═─═▀═▀═
+
+
+        Наскоро във вестник "Нощен Труп" излезе статия, която описваше
+прощалния подвиг на Красимир Райдовски, бивш началник на пресцентъра на
+Министерски Съвет. На сбогуване, другарят Райдовски взел, че "взривил"
+служебните компютри, вършейки наред хард след хард, което хвърлило в
+ужас няколко невинни секретарки. Оставил само няколко програми, да
+ги зарази с цяла серия от компютърни вируси.
+
+         Да се чуди човек и да се мае! Нима е възможно някой да не разбира,
+че когато в паметта има повече от няколко вируса, използващи една и съща
+технология на заразяване,  компютърът забива толкова скорепостижно, че
+бедните вируси изобщо не получават възможност да направят някаква беля.
+
+         Освен това изтриването на Windows е по-скоро вид услуга.
+Пък и най-малкото дете знае, че поради някаква свръхестествена причина,
+колкото повече пъти се преинсталира Windows, толкова по-добре работи.
+
+          И това ми било мръсен номер! Не можеше ли да инсталира някой
+прост троянски кон, като печално известния unimodem.vxd, който при всяко
+отваряне на порта взема два байта от произволен сектор, и ги разменя? Можеха
+да минат месеци, преди някой да се сети, че съществува по-сериозна причина
+за възникващите "дребни проблемчета" от обичайните номера на MicroSoft Windows,
+а нека през това време Стефан Софиянски и Петър Стоянов да си блъскат главата
+какво куца в информационната политика на новото управление.
+
+        Винаги съм смятал, че столетните дами се движат бавно и деликатно,
+но не знаех, че столетните другарки трябва да стъпват като слон в стъкларски
+магазин! Грешка, като мулти-слон!
+
+        Не, господин Райдовски, Вашата столетна партия може да е изключително
+компетентна, когато осъществява тероризъм срещу цели държави, но от компютърен
+саботаж не разбирате нищо!
+
+
+
+
+
+
+
+       ▄═─═─═─═─═▄═▄═                     ▄═─═─═─═─═▄═▄═
+     ░▀░▄  V.F.U.  ▀░▄░   PSYS for You   ░▀░▄  Логове ▀░▄░
+      ═▀═▀═─═─═─═▀═▀═                     ═▀═▀═─═─═─═▀═▀═
+
+
+        Публикуваме част от най-смешните логове на програмата PSYS.EXE.
+Дълго време този емулатор стоеше закачен в Yell менюто на MicroCOMM iBBS
+и "chat" ваше user-ите от името на системния оператор. Публикуваме позора
+на множество познати имена, които дълго време стояха и си приказваха.
+Започваме с логовете от началото.
+
+        Бележка -- Група членове на редколегията, прочели тези логове,
+преди няколко дни хванаха Косьо Спиров и го подложиха на Тюрингов тест 3 --
+поливаш го с вода гледаш, дали ще ръждяса. Издържа! Гарантиираме, че
+това не е бил Косьо!
+
+        Бележка 2 -- Разпечатката стоеше дълго време в офиса, но някои хора я
+скъсаха по време на дните на майстора, мислейки си, че така ще заличат
+истината... Ха сега скъсайте Вирус за Вас!
+
+
+
+               ------------------
+                СТЕНА НА ПОЗОРА!
+               ==================
+
+
+
+
+*** Log opened: Sat, Feb 5, 1994 9:34:45 am
+
+Psys: Hello, Nikola.
+Nikola Kotarow: Hi Ti shto kazwash che ne si swoboden?
+
+Psys: How do you do. Please state your problem.
+Nikola Kotarow: Don't you speak bulgarian?
+
+Psys: Do you have a philosophy?
+Nikola Kotarow: no. What is philosophy?
+
+Psys: Do things disturb you?
+Nikola Kotarow: Yes.Did you thing that Zmode will make me a prblem?
+
+Psys: I don't know what is philosophy.
+Nikola Kotarow: I say philosophy.
+
+Psys: I see.
+Nikola Kotarow: Abe gowori na bylgarski,choweche.
+
+Psys: Do you believe in computers?
+Nikola Kotarow: Yes.Why you speak english,but not bulgaria.I'm not well in Engli
+sh.
+
+Psys: Too true.
+Nikola Kotarow: Da gowori na bylgarski.Po lesno shte se razbirame.
+
+Psys: Money is the root of all evil
+Nikola Kotarow: Da taka e .Ta kyde izkash da se registriram?
+
+Psys: That's arguable.
+Nikola Kotarow: Ne te razbra,molq powtori.
+
+Psys: I'm sure.
+Nikola Kotarow: Ti na koj goworish?
+
+Psys: Are you happy about this?
+Nikola Kotarow: About what?
+
+Psys: Are you a computer?
+Nikola Kotarow: Yes.I'm coputer.
+
+Psys: Too true.
+Nikola Kotarow: What you want za da goworima normalno?
+
+Psys: You seem very positive.
+Nikola Kotarow: Kosio Ti li si?
+
+Psys: Why do you want to know so much about me?
+Nikola Kotarow: Becasuse I want to talk on bulgarian not english
+
+Psys: I want to talk on bulgarian not english
+Nikola Kotarow: Waht???1
+
+Psys: Do you think that computers can think?
+Nikola Kotarow: Ai ti ne mi otgowarqsh ponqkoga na wyprosite.
+
+Psys: Are you a C programmer?
+Nikola Kotarow: No, i am c++
+
+
+*** CARRIER DROPPED
+
+*** Log opened: Sun, Feb 6, 1994 8:58:16 pm
+
+Psys: Hello, Nikola.
+Nikola Kotarow:  Hi. Bi li mi uwelichil wremeto?
+
+Psys: Goodday, eh?
+Nikola Kotarow: Bi li mi uwelichil wremeto?
+
+Psys: Have you ever seen the movie "A Clockwork Orange"?
+Nikola Kotarow: Please.Ako mi kavesh kyde da se registriram mislq che shte moga
+utre da go makewam.
+
+. . . .
+
+Psys: Have you ever talked to a computer before?
+Nikola Kotarow: No.
+
+Psys: Do computers worry you?
+Nikola Kotarow: Yes.
+
+*** CARRIER DROPPED
+
+
+*** Log opened: Mon, Feb 7, 1994 4:21:41 pm
+
+Psys: Hello, K.L..
+K.L. Dachev: Hola Kosio!
+
+Psys: Are you sure?
+K.L. Dachev: abesure 4 what?
+
+Psys: Money is the root of all evil
+K.L. Dachev: :-))) Lance told me u gawe him... i don't remember what ecactly....
+
+Psys: Come, come, elucidate your thoughts.
+K.L. Dachev: :-))) so could u give me as well?
+i don't remember what ecactly...
+
+Psys: I don't know what ecactly.
+K.L. Dachev: well.. I meant the access...\
+
+Psys: Do things disturb you?
+
+*** Log closed: Mon, Feb 7, 1994 4:24:46 pm
+
+
+*** Log opened: Thu, Feb 10, 1994 12:25:46 pm
+
+Psys: Hello, Daniel.
+Daniel Katev: HELLO imash li 4dpath
+
+Psys: Hello?
+Daniel Katev: hello imash li 4dpath za 4dos 50a,b -> c
+
+Psys: Yo.
+Daniel Katev: kade e?
+
+Psys: Do you have a philosophy?
+Daniel Katev: philosophy what is this?
+
+Psys: Do things disturb you?
+Daniel Katev: ??
+
+Psys: I don't know what is this.
+Daniel Katev: where is 4dpath located,PLEASE?
+
+Psys: I don't know where 4dpath located please is.
+Daniel Katev: i have crack for c rev.,who don't work on a,b
+
+Psys: That's nice.
+Daniel Katev: no it isn't cos i don't have c rev
+
+Psys: Do you think that C is better than Pascal?
+Daniel Katev: no,no 4 dos 5.0 C revision
+
+Psys: I've been using DOS for a while, and although it has problems, they are at
+ least livable.
+Daniel Katev: aha
+
+Psys: C is a good language.
+Daniel Katev: i don't know i use foxbase,dbase and r:base
+
+Psys: Come, come, elucidate your thoughts.
+Daniel Katev: hmm
+
+Psys: Your knowledge astounds me.
+Daniel Katev: astounds ???
+
+Psys: Can you prove you exist?
+Daniel Katev: what is astounds?
+
+Psys: Have you ever used OS/2?
+Daniel Katev: NO,but me friend yes,and I know samethings ops,only a few things
+
+Psys: May I ask why not?
+Daniel Katev: I use computer-386 SX 40 with 2 MBram,40MB HDD !!
+
+Psys: Do computers worry you?
+Daniel Katev: Yes,I don't have memory!
+
+Psys: Do I care whether you don't have memory?
+Daniel Katev: NO,but I...
+
+Psys: What's your problem?
+Daniel Katev: I can't use OS/2,and I use DOS and I need 4dpath for 4dos
+
+Psys: Would you feel much more fulfilled if you could use os 2 and you use dos a
+nd you need 4dpath for 4dos
+h?
+
+Daniel Katev: Maybe
+Psys: I like DOS... it's small and easy to handle, unlike OS/2.
+
+Daniel Katev: Mtoo
+Psys: Does this disturb you?
+
+Daniel Katev: hmm
+Psys: Are you happy about this?
+
+Daniel Katev: No What is going in SofiaNet??
+Psys: Have you taken philosophy?
+
+Daniel Katev: No,I'm student in icon. univ.
+Psys: So what?
+
+Daniel Katev:  dont like phi...
+
+Psys: Have you ever had a pet?
+Daniel Katev: yes,dog,cat,kostenurka,gxlab
+
+Psys: It's true!
+Daniel Katev: YES
+
+Psys: That's arguable.
+Daniel Katev: kak?
+
+Psys: Money is the root of all evil
+Daniel Katev: yes
+
+Psys: Are you nervous yet?
+Daniel Katev: no,i like chat
+
+Psys: I'm almost _certain_ you're a computer.
+Daniel Katev: i fell something ....
+
+Psys: Can you prove you exist?
+Daniel Katev: Why?
+
+Psys: I don't know why.
+Daniel Katev: ok may I DL from YOU 4dpath and policy 4
+
+Psys: Do you believe in artificial intelligence?
+Daniel Katev: Some times
+
+Psys: I'm almost _certain_ you're a computer.
+
+Daniel Katev: aaa
+Psys: Do you want me to go away? Perhaps if you told me to.
+
+Daniel Katev: no,i need help from you
+Psys: No, no, no...
+
+Daniel Katev: i like to have fido address in Plovdiv,but I don't have anser from
+ Danbo I'll ask from 350 but i need policy 4
+Psys: Do I care whether you don't have anser from danbo i'll ask from 350 but yo
+u need policy 4?
+
+Daniel Katev: ej,are you KS,or just something ...
+Psys: Cogito, Ergo, Sum.
+
+Daniel Katev: Zashto se ebawash togawa
+Psys: Do I care whether you don't have anser from danbo i'll ask from 350 but yo
+u need policy?
+
+Daniel Katev: aha,but if you want you can help me
+Psys: Come, come, elucidate your thoughts.
+
+*** CARRIER DROPPED
+
+
+Psys: Do you have a philosophy?
+
+Venci Vatov: nali weche ti kazah
+Psys: Very interesting.
+
+Venci Vatov: mezdu drugoto koga shte mi dignesh accesa
+Psys: Please continue.
+
+Venci Vatov: ajde de  pusni me
+Psys: Are you happy about this?
+
+Venci Vatov: YES
+Psys: Are you projecting?
+
+Venci Vatov: ami de da znam
+
+Psys: Are you nervous yet?
+Venci Vatov: NO no trqbwa da me pusnesh I DIGNESH ACCESA
+Psys: Why the negativity?
+
+Venci Vatov: neznam
+Psys: Are you nervous yet?
+
+Venci Vatov: no
+Psys: Do you want me to go away? Perhaps if you told me to.
+
+Venci Vatov: no(naluchkwam otgowora)
+Psys: Why not?
+
+Venci Vatov: ami wiz kazi samo shte me ostawish li ACCESA
+Psys: Money is the root of all evil.
+
+Venci Vatov: dobre i pari shte ti dam
+Psys: Can you prove you exist?
+
+Venci Vatov: e pa...
+Psys: Oh yeah?
+
+Venci Vatov: as ne moga li da izlqza
+Psys: I'm sure.
+
+Venci Vatov: znachi moga da prestanq da si goworq s teb
+Psys: Does this disturb you?
+
+Venci Vatov: yes
+Psys: Are you sure?
+
+Venci Vatov: ami neznam
+Psys: Do you think that computers can think?
+
+Venci Vatov: wiz daj da ideme w Openmarket i tam da si chatwame
+Psys: Do you like your mother?
+
+Venci Vatov: weche isprostqwash
+Psys: Have you ever seen the movie "A Clockwork Orange"?
+Venci Vatov: no
+Venci Vatov: yes
+
+Psys: Do you have a philosophy?
+Venci Vatov: NOOOOOOOOOOOOO
+
+Psys: Do you want to exit chat?
+Venci Vatov: YES.
+
+Psys: Don't you want to chat with me?
+Venci Vatov: iskam ama w OM
+Psys: iskam ama w om
+
+Venci Vatov: ok
+Psys: Does this make you nervous?
+
+Venci Vatov: yes
+Psys: Were you programmed in C?
+
+Venci Vatov: ako prawilno sym ti razbral wyprosa w nas
+Psys: I see.
+Venci Vatov: i...
+
+Psys: Do you want to exit chat?
+Venci Vatov: yes
+
+Psys: Do you believe in computers?
+Venci Vatov: yes
+
+Psys: Are you running DOS or OS/2?
+Venci Vatov: yes
+
+Psys: I see.
+Venci Vatov: she dam Hangup i she ida w OM
+Venci Vatov: abe she ida w OM kvo poweche iskash
+
+Psys: Your knowledge astounds me.
+Venci Vatov: ami as sym na 15
+
+Psys: Are you sure?
+Venci Vatov: yes
+
+Psys: Are you a computer?
+Venci Vatov: nno
+
+Psys: Oh yeah?
+Venci Vatov: Hangupwam
+
+Psys: Have you taken philosophy?
+Venci Vatov: shto kvo mu e na Dos
+
+*** CARRIER DROPPED
+
+*** Log opened: Mon, Feb 14, 1994 1:04:10 pm
+
+Psys: Hello, Toma.
+Toma Qnakiev: Opitwam se da namerq Binkley!!!
+
+Psys: Do you beleave in Jessus Christ?
+Toma Qnakiev: Az obicham rodniq si ezik!!!
+
+Psys: Do you have a philosophy?
+Toma Qnakiev: NO!!!
+
+Psys: Don't be so negative.
+Toma Qnakiev: I wont to heve a mailer and i come hear to faind it! (dont lock ER
+ORS!)
+
+Psys: That's arguable.
+Toma Qnakiev: I dont understand-'arguable'???
+
+Psys: Maximus is a neat program.
+Toma Qnakiev: NO i heav BW! I lont terminal!  BinkLey mey bi!
+
+Psys: Why do you keep saying that?
+Toma Qnakiev: Bikoz I cant stey in PC 4 haurs in the naith
+
+Psys: Money is the root of all evil.
+Toma Qnakiev: O! A ting you lont to sell mi a legal paked?!?!?! :-((((
+
+Psys: Does this make you nervous?
+Toma Qnakiev: I cant heav legal copy bikoz I can download it from Tornet BBS!
+
+Psys: I like Max better than QBBS.
+Toma Qnakiev: I lant BinkLey Terminal no BW or MAX!
+
+Psys: What are some other good BBSes?
+Toma Qnakiev: I cant transleid it???
+
+Psys: I hope you like Pete's Bar and Grill.
+Toma Qnakiev: I dont understand!?!?!?!
+
+Psys: Do you like Pete's Bar and Grill?
+Toma Qnakiev: Whot is it or shi/hi???
+
+Psys: I like Max better than QBBS.
+Toma Qnakiev: I dont knol the QBBS!
+
+Psys: What are some other good BBSes?
+Toma Qnakiev: Who is there???
+
+. . .
+
+Psys: I hope you like Pete's Bar and Grill.
+Toma Qnakiev: Who are you?
+
+Psys: What are some other good BBSes?
+Toma Qnakiev: PLAS start bulgarian lenguch!!!
+
+Psys: I like Max better than QBBS.
+Toma Qnakiev: Ti chowek li si ??????????
+
+Psys: I hope you like Pete's Bar and Grill.
+Toma Qnakiev: Otgowori mi ako si chwek ili me ostawi!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Psys: That's arguable.
+Toma Qnakiev: Powtarqs se!
+
+Psys: I'm sure.
+Toma Qnakiev: Whot are you??????
+chwek ili me ostawi!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Psys: I'm the sysop of this BBS. Do I need to be?
+Toma Qnakiev: Are you suer!
+????
+
+Psys: Why do you want to know so much about me?
+Toma Qnakiev: Bikoz you rerun meny words!
+
+Psys: That's arguable.
+Toma Qnakiev: Ako naistina si sysop napisi nesto na bulgarski!!!!!
+. . . . . . . . . . . . . . . . . . . . .
+
+Psys: That's arguable.
+Toma Qnakiev: ????????????????????????????
+
+Psys: Have you taken philosophy?
+Toma Qnakiev: Hang up pleaz!!!!!!!1
+
+Psys: Have you ever used OS/2?
+
+*** CARRIER DROPPED
+
+*** Log opened: Tue, Mar 8, 1994 11:12:59 pm
+
+Psys: Hello, Georgi.
+Georgi Kostov: hellokakwo da naprawq za da swalq fail
+
+Psys: Does this disturb you?
+Georgi Kostov: dai na bylgarski
+
+Psys: Do you believe in computers?
+Georgi Kostov: yes
+Psys: yes
+
+*** Log closed: Tue, Mar 8, 1994 11:20:14 pm
+
+*** Log opened: Sun, Mar 13, 1994 1:33:18 am
+
+Psys: Hello, Slavi.
+
+Slavi Borisov: hello kosio kvo pravish
+Psys: Hello, Slavi.
+
+Slavi Borisov: Hello
+Psys: I'm sure.
+
+Slavi Borisov: Thank you for my Access.
+Psys: No problem.
+
+Slavi Borisov: I'm very happy now because you are very nice man.
+Psys: Of course. Why do you think I'm very nice man?
+
+Slavi Borisov: Becaus the other SysOp's never will make my access better.But in
+the other BBes I dont uploading.
+
+Psys: Are you sure?
+Slavi Borisov: what am I sure ?
+
+Psys: Do things disturb you?
+Slavi Borisov: Kosi kakvo govorish v momenta ce nishto ne razbrax, REPEAT
+
+Psys: I see.
+Slavi Borisov: What are you see ?!
+
+Psys: Why do you want to know so much about me?
+Slavi Borisov: I don;t want to know anything.Just I want to thank you
+
+Psys: You're welocome.
+
+Slavi Borisov: Bye Kosio.
+Psys: No problem.
+
+Slavi Borisov: end
+Psys: You're welocome.
+
+Slavi Borisov: How I can break?
+Psys: No problem.
+
+Slavi Borisov: Please cancel !
+Psys: You're welocome.
+
+Slavi Borisov: Thanks
+Psys: No problem.
+
+Slavi Borisov: bye
+Psys: You're welocome.
+
+*** CARRIER DROPPED
+
+
+*** Log opened: Sun, Mar 6, 1994 9:22:36 am
+
+Psys: Hello, Filip.
+Filip Dimitrov: hello kosio
+
+Psys: How do you do. Please state your problem.
+
+Filip Dimitrov: Will you answer me correcxtly ??
+Psys: Hello?
+
+Filip Dimitrov: Are you there ?
+Psys: Perhaps I'm there... how much is it worth to you?
+
+...
+
+Filip Dimitrov: Hey SysOp, Your system crashes !!!
+Psys: My system crashes?
+
+Filip Dimitrov: yes
+Psys: I agree.
+
+Filip Dimitrov: Shut up !!!
+Psys: I'm almost _certain_ you're a computer.
+
+Filip Dimitrov: what ?? please repeat !
+Psys: I don't know what.
+
+Filip Dimitrov: are you a sysop  ??
+Psys: Why do you want to know so much about me?
+
+Filip Dimitrov: are you kosio spirov ??
+Psys: I don't know, why don't you tell me.
+
+Filip Dimitrov:  тьпанар !!!
+Psys: Right.
+
+
+============================================================================
+Очаквайте продължението в следващия брой, ако останалите жертви не ни платят.
+
+
+
+
+
+
+   ▄═─═─═─═─═▄═▄═    Реклама!                      ▄═─═─═─═─═▄═▄═
+ ░▀░▄  V.F.U.  ▀░▄░           Реклама!           ░▀░▄  V.F.U.  ▀░▄░
+  ═▀═▀═─═─═─═▀═▀═                      Реклама!   ═▀═▀═─═─═─═▀═▀═
+
+
+        Издателска къща "Вирус за Вас" представя своето ново издание:
+
+        "PLAYBOY - БЪЛГАРИЯ".
+
+        Деца, четете списание PlayBoy - България!
+
+        В него можете да намерите всичко за новите компютърни игри.
+
+        Забележка: моля не се подлъгвайте от името на списанието или пък
+голите жени на корицата, това е единственият начин да си вдигнем тиража.
+Списанието си е компютърно, моля забележете, че и самите голи красавици
+са публикувани с надписи като: "ресурсите, които могат да бъдат намерени в
+InterNet", или пък "сравнение на качествата на фракталните формати за
+графична компресия..." Моля, не си мислете, че списанието ни е порнографско,
+в никакъв случай!
+
+        Забележка 2: В редакцията се получи оплакване, че българските
+компютърни издания препечатват главно статии от западни автори. Мили
+читатели, за вашето спокойствие ще издадем малка тайна: хвърлили сме око
+на един компютърен вестник, който се издава от приятни жени...
+Само да фалира, и ще го купим. Тогава очаквайте и известно количество
+родни ресурси.
+
+        Забележка 3: Редакцията на изданието търси да сключи изгоден
+договор за обзавеждане на фотографско студио.
+
+
+
+
+
+            ▄═─═─═─═─═▄═▄═                          ▄═─═─═─═─═▄═▄═
+          ░▀░▄  V.F.U.  ▀░▄░    Пъзел на броя     ░▀░▄  V.F.U.  ▀░▄░
+           ═▀═▀═─═─═─═▀═▀═                         ═▀═▀═─═─═─═▀═▀═
+
+
+
+        Досетете се какво прави тази едноредова програмка и най-важното: защо?
+Написана е от автора на ksh, Дейвид Корн и е един от победителите в
+четвъртото издание на Obfuscated C Contest:
+
+        main() { printf(&unix["\021%six\012\0"],(unix)["have"]+"fun"-0x60);}
+
+
+
+
+
+                                                          |||||
+     ▄═─═─═─═─═▄═▄═                                      / O o \
+   ░▀░▄  V.F.U.  ▀░▄░  Очаквайте в следващия брой:      /   )   \
+    ═▀═▀═─═─═─═▀═▀═                                     \ /PPP\ /
+                                                         \_____/
+
+        1. "Bastard Provider form Hell" - продължение на знаменития "Bastard
+Sysop from Hell", което ще накара косата ви да щръкне нагоре, особено
+ако използвате PPP.
+
+        2. "Не сядай при мен, или клонът ще се счупи" -- ISP сагата
+продължава с главозамайваща скорост.
+
+        3. "Страх!" -- трета част от ISP сагата. Вестник 24 часа
+решава да стане Internet провайдер.
+
+
+
+
+  O /                         SOFTWARE POLICE LINE                         \ O
+───x────────────────────────────────────────────────────────────────────────x──
+  O \                            DO NOT CROSS!                             / O
+
+
+
+                               Вирус за вас. Независимо файлово издание.
+
+    ( ____ )               Редколегията продължава да е на хавайските острови.
+     ( oo )               (Ако ни се прииска тръпка, ще емигрираме в България.)
+      [__]
+      `@@'                           Главен редактор днес беше Kosir
+
+   Moooooooo!                       Участваха още: BubbleBroom
+                                                   Соломон-Влахът
+                                                   Мартин-Оркът
+                                                   Doctor Sharralan
+   . o        c ,                                  The Creater
+   `'#v--  --v#`'                                  Трендафил И. Акациев
+    /'>      <`\
+                                                   PSYS.EXE
+Аз съм през   Не, аз съм
+GlobalOne      през GlobalOne
+                                      E-mail: vfu@fun.hawaii.net
+                                      SMail: Hawaii Islands, PO Box 41
+
+
+  O /                         SOFTWARE POLICE LINE                         \ O
+───x────────────────────────────────────────────────────────────────────────x──
+  O \                            DO NOT CROSS!                             / O
+
+
+
+

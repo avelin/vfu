@@ -1,0 +1,1044 @@
+
+▄██▄   ▄██▄  ▄█▄  ▄████████▄  ▄██▄   ▄██▄  ▄███████▄    ▄▄   ▄██▄   ▄██▄   ▄██▄
+████   ████ █████ ███▀   ▀███ ████   ████ ████▀ ▀████  ████  ████   ████   ████
+████   ████ █████ ███▄   ▄███ ████   ████ ▀█████▄▄     ████▄▄████   ████   ████
+▀███▄ ▄███▀ █████ █████████▀  ████   ████    ▀▀█████▄  ▀█████████   ████   ████
+ ▀███████▀  █████ ████ ▀████▄ ███████████ ████▄ ▄████        ████   ███████████
+   ▀███▀     ▀█▀  ▀██▀   ▀██▀  ▀███████▀   ▀███████▀         ▀██▀    ▀███████▀
+
+Ю=-=--==-=--==--==-=-=--=-==-=-=--=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=Ю
+Ю  В И Р У С   З А   В А С   независимо файлово издание  брой 14  31.12.1996  Ю
+Ю=-=--==-=-=-=-=-=-=-=-=-=-=--==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=ю
+
+
+Днес в броя...
+
+    ТъТъеМ? - историята на един нещастен руут и някакъв си хакер.
+
+    Пълноценното използване на unix системите - пълен самоучител.
+
+
+
+          ▄═─═─═─═─═▄═▄═                      ▄═─═─═─═─═▄═▄═
+         ░▀░▄  V.F.U. ▀░▄░  Лаф на деня!    ░▀░▄  V.F.U. ▀░▄░
+          ═▀═▀═─═─═─═▀═▀═                      ═▀═▀═─═─═─═▀═▀═
+
+
+ DO ONTO OTHERS BEFORE THEY UNDO YOU !!!
+
+
+          ▄═─═─═─═─═▄═▄═                      ▄═─═─═─═─═▄═▄═
+         ░▀░▄  V.F.U. ▀░▄░    И още....      ░▀░▄  V.F.U. ▀░▄░
+          ═▀═▀═─═─═─═▀═▀═                      ═▀═▀═─═─═─═▀═▀═
+
+
+ A vision without a task is but a dream
+                A task without a vision is drudgery
+                        A vision with a task is the hope of the world.
+
+                                - Carved on a church, 1730
+                                        Surrey, England
+
+
+
+        ▄═─═─═─═─═▄═▄═                              ▄═─═─═─═─═▄═▄═
+       ░▀░▄  V.F.U. ▀░▄░  AIX4 - новата OS на IBM  ░▀░▄  V.F.U. ▀░▄░
+        ═▀═▀═─═─═─═▀═▀═                              ═▀═▀═─═─═─═▀═▀═
+
+ ПЛАТЕНА ПУБЛИКАЦИЯ - ПЛАТЕНА ПУБЛИКАЦИЯ - ПЛАТЕНА ПУБЛИКАЦИЯ - ПЛАТЕНА ПУБЛИКА
+
+   Новата операционна система на IBM е идеална за разрастващата се дейност на
+   все по-нашумелите у нас ИСП-та. Тя ви гарантра сигурност, лесна поддръжка,
+   добра защита на системните ресурси и повишена производителност. Тя повишава
+   самочувствието на вашите потребители (АКА "абонати"). Поръчайте сега!
+
+   За закупилите системата IBM предлага специална оферта на система AS/400 или
+   RS/6000, като ви дава целия софтуер под наем, запазвайки правото си да го
+   подмени или прибере обратно, което ви гарантира увереност в дълготрайната
+   безпроблемна работа на вашата система!
+
+   За контакти: selas@mtt.gb
+
+
+ ▄═─═─═─═─═▄═▄═              Статия на броя            ▄═─═─═─═─═▄═▄═
+░▀░▄  V.F.U. ▀░▄░   Едно съвсем случайно приключение  ░▀░▄  V.F.U. ▀░▄░
+ ═▀═▀═─═─═─═▀═▀═          от Юзер Ю-звер-ски           ═▀═▀═─═─═─═▀═▀═
+
+
+(Текст, upload-нат в new директорията на един столичен FidoNet BBS
+през guest account-а. Автор-неизвестен.)
+
+
+=-=-=-=-=-=- Начало на статията
+
+Седя си аз и си набирам 91919 за Inex такси, както всеки новоизлюпен
+хакер използвам модем за целта! Само дето моята клавиатура е малко
+разбърникана и съм принуден да използвам numpad-овете. Явно след
+дълга работа, пръстчето ми е трепнало леко надолу и съм объркал
+една от единиците. След малко (за моя почуда) чета на екрана
+следното:
+
+    CONNECT 28000/ARQ/V34
+
+          ... и нищо. Като всеки тъп потребител праснах два-три-четири-
+пет бързи enter-а и кво? "Username>"! Тук у мен се събуди хакерското
+и се отказах да се прибирам да спя. От осмия път познах един account с
+име==парола и се linkup-нах :-) След като ми писна да си browse-вам
+напред-назад и да мънкам пи-пи-пи, реших да разгледам що за машина
+е тази...
+
+Меню. Малко меню. Пуска разни неща със system("<censored>") и...
+Елементарно! В системата има talk. А аз имам един стар приятел, казва
+се /bin/sh. Та talk-вам си аз с &/bin/sh и той от радост ми вика $...
+
+Абе аз не съм лош човек, иначе можех и да позабърша диск-два, ама
+нейсе. Поразгелдах системата, ама нищо интересно - само gif-ове от
+playboy.com. Дори и в home директориите на потребителите -- пак
+красавици... :) Сякаш си нямаме достатъчно в magdanoz...
+
+Тогава се сетих че ми трябва един нов twsk25g.exe и си пуснах find...
+След малко забелязвам -- root-а си седи пред машината и не му прави
+ни най-малко впечатление, че cd-то самоволно си върти. Както и да е,
+източих я.
+
+Еxit-нах. За радост router-а имаше help, при това context sensitive!
+Разгледах повечето му команди (за заинтересуваните са интересни se p,
+lo p 3, sh u, con address и доста други, абе вижте си ги сами).
+
+Писна ми. Какво толкова може един router. Е, не можах да го
+преконфигурирам на CTS/RTS handshake, за да мога да си пусна zmodem,
+ама какво от това... Пратих си нещата на myaddress@freenet.fi. :-)
+Под неща разбирайте passwd, shadow и някои други, които само като се
+изрекат на глас и идват няколко стари unix призрака от 01-01-1970...
+
+Разбира се, повечето потребители си ползваха Windows 95 и следващото
+забавление беше да сменя една две опции в системата, да си инсталирам
+95 и да click-на на Network Neighbourhood... Умно е да си share-неш
+целия диск и да кажеш full access на Everyone :-( E, да ти преименуват
+winsock.dll на winsock.ldd може да се възприеме и като дребна
+приятелска шега в някои среди. Намерих и един ценен екземпляр с добре
+инсталиран Winдoze NT и разни екстра tools-ове! Реших, че е печен и му
+Shut-down-нах компютъра, с време за реагиране 120 секунди. Тъпо е да
+имаш DHCP и да не погледнеш в Properties, нали? ;-)
+
+Писна ми и това дребно удоволствие и реших да почета малко поща. Поща
+ли? Каква поща? Нали току що бях влязъл и то не като аз? Ами много е
+просто - чуждата, разбира се! Това обаче е удоволствие, само когато
+хората са на ниво... След като прочетох около 20 съобщения за това
+как е мама и много поздрави на хиляди неизвестни хора, няколко
+договора за внос/износ на какви_ли_не_дивотии, реших да събера всичката
+поща (~/mail/inbox/*) и да си grep-вам за нещо по-интересно. До
+половината вървеше flawlessly, ама се намри някакъв гад, който беше
+влизал преди мен в sh и си беше направил правата за ~/ както правят
+белите хора... Отказах се и от това, но поне до неговата директория
+прегледах почти всичко - нищо интересно. :(
+
+Реших и аз да се правя на сериозен хакер и да си позачистя следите...
+Е, не е кой-знае колко трудно да се сетиш да напишеш rm .sh_* като
+първа команда, защото в новите unix системи се срещат и разни екстри
+като recycle bin например...
+
+Писна ли ви да четете кой-какво-къде бил правил? Искате да знаете как?
+Ами не е трудно... Речник: ei, bdata, bti, smartcom, tradel,
+/etc/passwd...
+
+=-=-=-=-=-=- Край на статията
+
+
+
+        ▄═─═─═─═─═▄═▄═                              ▄═─═─═─═─═▄═▄═
+       ░▀░▄  V.F.U. ▀░▄░        Виц на броя        ░▀░▄  V.F.U. ▀░▄░
+        ═▀═▀═─═─═─═▀═▀═                              ═▀═▀═─═─═─═▀═▀═
+
+
+
+These two strings walk into a bar and sit down.  The bartender says, "So
+what'll it be?"
+
+The first string says, "I think I'll have a beer quag fulk boorg jdk^CjfdLk
+jk3s d#f67howe%^U r89nvy~~owmc63^Dz x.xvcu"
+
+"Please excuse my friend." the second string says, "He isn't null-terminated."
+
+
+
+
+
+     ▄═─═─═─═─═▄═▄═       КОЛОНКА НА РЕДАКТОРИТЕ       ▄═─═─═─═─═▄═▄═
+    ░▀░▄  V.F.U. ▀░▄░   Strange kidS or stupid kidS   ░▀░▄  V.F.U. ▀░▄░
+     ═▀═▀═─═─═─═▀═▀═        от Winnie the PooH         ═▀═▀═─═─═─═▀═▀═
+
+=== Cut ===
+WP: Hi Stoian, this is your sysop
+WP: hello
+
+SS: Hello
+
+WP: you will never download the file using these bad protocols X and Y modem..
+WP: try Zmodem
+
+SS: My program does not support zmodem
+
+WP: then the bad thing is your program. find another one and then try again!
+
+SS: iskam da te pitam v DOS ili v Windows e po dobre da se svarzvam
+
+WP: zawisi.. za DOS ima mnogo po-dobri terminalni programi. za Windows puk ima
+WP: drugi neshta.. zawisi..
+
+SS: Kazaha mi che v windows e po bavno
+
+WP: towa ne e problem, zashtoto mozhe da se smeni comm.drv i da se oprawi.
+
+SS: Prochete li v maila te pitam nesto
+
+WP: ne. oshte ne sum si chel poshtata..
+
+SS: Pitam te dali moze v Internet da se pazaruva s chuzdi credit card
+
+WP: mozhe, no e po-weroiatno da te hwanat.
+WP: I kakwo sa si kupili do sega?
+
+SS: Mnogo ot moite priateli go prawiat no s drebni sumi i CD,flanelki i dr.
+
+WP: Towa ne e garancia, che wyobshte sa izpolzwali creditni carti
+
+SS: Te imat niakakwi nomera i kazvat che kato iskash da kupish prosto popalvash
+SS: nomera
+
+WP: ne stawa.ima drugi neshta, koito se proweriawat po-kusno.. naprimer - adres,
+WP: ssn (social security number) i t.n. predi 5 godini beshe po-wyzmozhno-sega
+WP: ne.
+WP: Po zakonite na USA i na drugite ewropejski durzhawi, izpolzwanet na kreditni
+WP: karti na chuzhdi sobstwenici e uglawno prestuplenie s osobeno golemi razmeri.
+WP: Nakazanieto e goliamo, globata sushto. Mogat da wi razkataiat. Nishto, che
+WP: sme
+WP: w Bulgaria. I wyobshte - po-dobre ne se prawete na smeli hackercheta.
+
+SS: Toest ti mi kazvash che oste stava no ne mi go preporachvash Niakoi okolo
+SS: tebe
+SS: hvastali li sa go
+
+WP: s fanelki CompuServe i AOL se motaiat po ulitzite i se gordeiat, che sa
+WP: otkradnali! kak wyobshte si mislite za towa ? shto ne wlozhite
+WP: polozhitelnata
+WP: si energia i poznania za komputrite w neshto, koeto shte wi nosi mnogo puti
+WP: poweche pari!?
+
+SS: 1-Ti li si avtora na VFU-to
+SS: 2-Koe spored tebe nosi mnogo pari v Bulgaria
+SS: 3-Triabva da sabiram 1 week pari za da si kupia markova flanelka s mizernite
+SS: si LEVOVI spestiavania
+
+WP: 1-az biah awtor, t.e. sy-awtor na VFU-tata.
+WP: 2-towa e neshto, koeto sam triabwa da otkriesh. to taka na gotowo - ne
+WP: stawa.
+WP: 3-syzhaliawam. da si se rodil na drugo miasto. no yawno ne si, taka, che ne
+WP: wizhdam prichina towa da te kara da kradesh.
+WP: 4-az se sumniawam, che wyobshte niakoi ot was osuznawa polozhenieto si i
+WP: wsyshtnost kakwo prawi. smiatate, che e mnogo hitro da izpolzwate na niakoi
+WP: chowek parite, dori bez da go poznawate. bez da znaete, na tozi imenno
+WP: chowek edna takawa krazhba kak shte mu se otrazi? imate li danni za towa,
+WP: dali toi plashta smetkata i znaesh li kakwo e da niamash drug izbor
+WP: oswen da ya platish?
+
+SS: V USA horata opredeleno ne sa za milost i tova ne e tochno krazba i zasto
+SS: pishesh v VFU-to samo loshi nesta za nas kato nie samo se opitvame da
+SS: ziveem dobre?????????
+
+WP: Na kolko si godini?
+
+SS: Na malko
+
+WP: Kolko?
+
+SS: malko
+
+WP: 13?
+
+SS: poveche
+
+WP: 14?
+
+SS: poveche kakvo te interesuva
+
+WP: Mi zashto si kriesh wyzrastta?
+
+SS: a ti zasto me pitash
+
+WP: Interesno mi e.
+
+SS: a ti na kolko si
+
+WP: Smiatash li, che e chestno taka da postupwash? Sys sigurnost sum po-goliam
+WP: ot teb, zadadoh ti wypros, ti pochna da mi se prawish... Kazhi sega na
+WP: kolko si godini i az shte ti kazha.
+
+SS: na 19
+
+WP: Ne ti wiarwam.
+
+SS: zasto
+
+WP: Kakwo uchish?
+
+SS: Ucha v Mladost uchilishteto za computeri
+
+WP: Deto e kum MEI?
+
+SS: Yes pravo v celta
+
+WP: Ok. W moita firma raboti edno momche deto minalata godina go zawurshi.
+WP: Dokato
+WP: beshe oshte w uchilishte mi razprawiashe za nego.. Kakto i da e.. Toi sega
+WP: e w
+WP: MEI, a nawurshi 19 predi 3 mesetza. Taka, che mnogo losho me izluga.
+
+SS: E, moze malko da sum izlagal
+
+WP: da. naprimer s kolko godini?
+
+SS: 2
+
+WP: 17. nali? a mozhe bi oshte ne si gi nawurshil.
+
+SS: sega ste vzimam knizka(driver-ska) taka che 17+
+
+WP: za kakwo goworia. ili razgowariaj s majka ti na taia tema.
+
+SS: Ia mi kachi price listata za internet
+
+WP: imam go samo na hartia tuk.. obadi se i wlez kato guest.
+WP: ama tam mozhesh da ya widish samo na ekrana ili s zmodem.
+
+SS: Imam zmodem no tova e drug vapros , znaesh li vchera se zamislih kakva e
+SS: dalaverata(pechalbata) ot BBS mozesh li da mi obiasnish ako ne te ,marzi
+
+WP: ne me marzi, ama wseki Sysop si ima sobstweno mnenie. Az go prawia za kef
+WP: weche. ot 6 godini imam BBSi. Ne samo edin. I dosega finansowa dalawera ne
+WP: sum
+WP: widial.. Oswen trupaneto na tui narechenite Nematerialni Aktiwi. No towa e
+WP: neshto, koeto shte mi e trudno da ti obiasnia s pisane.
+
+SS: No vse pak tova te vkarva v razhodi pone tiah pokrivash li
+
+WP: pokriwam gi, no ne s prihodi ot BBSite. a s druga rabota.
+
+SS: A kakvo oznachava XaX
+
+WP: Nishto. :)
+
+SS: CPS rate triabva da dava sredno
+
+WP: 2400 e mnogo bawno. Ama mnogo bawno. Wsushtnost za drugi neshta oswen za
+WP: chetene na poshta i chat ne stawa weche. Edno wreme az sushto sum bil na
+WP: 2400,
+WP: no e otwratitelno. A i sega cenite sa mnogo niski. Edin 14400 modem s voice
+WP: struwa pod 60 dolara. Kakto i da e. XaX i wsichki ostanali moi systemi sa na
+WP: 33600.
+
+SS: Viarno 14400 struva pod 60 no bokluk a ne markov
+
+WP: Ne e zadulzhitelno da si kupuwash markov modem. Ima mnogo dobri zhulti
+WP: modemi.
+WP: Towa e wyzmozhno da stawa i ot drugi prichini. Primerno, che twoiat priatel
+WP: ne
+WP: znae kak da si go nastroi. Ima mnogo neshta ot koito zawisi skorostta. I w
+WP: powecheto sluchai ne e ot modema.
+
+SS: miDobre da ama moia dava sredno 330 istiga do 550 tova za mene e
+SS: zadovolitelno
+SS: i e dobre za 2400 , spored mene v BG niama nuzda ot po dobar
+
+WP: ne priemam twoeto mnenie za wiarno i ne smiatam, che shte go zadurzhish
+WP: dulgo
+WP: wreme. 330-550 CPS mozhesh da poluchish SAMO na textowi - nekompresirani
+WP: failowe, i to ako modemut ti poddurzha data compression. W protiwen sluchai
+WP: maximumut, koito mozhesh da postignesh e 250-270 CPS!
+WP: Na krastawiachar... nali znaesh prikazkata?
+
+SS: Ne e viarno naTvoia kolko CPS ti dava
+
+WP: moia :)) moia dawa 3500.
+
+SS: Dobre de niakoi hora kazvat che kolkoto ida e dobar modema v BG ne moze da
+SS: se
+SS: izkara mnogo
+
+WP: ami twoiat problem e, che im wiarwash!
+
+SS: Kolko e max. BPS koito si izkarval
+
+WP: fizicheskata skorot na modema mi e 33600.
+
+SS: IZKARAL SI 33600
+
+WP: estestweno! Abe pich, kato ne wiarwash - ela da widish! kwo mi gubish
+WP: wremeto
+WP: da mi razkazwah niakoi debil kakwo ti bil kazal!!!!!!!
+
+SS: Kazi mi koi ot zaltite sa dobri
+
+WP: powecheto ot tiah sa bezimenni.
+
+SS: A SmartLink
+
+WP: stawa.
+
+SS: Ama ne
+
+WP: Problemut, ne e w modema wi, a w negowia setup.
+
+SS: DEMEK
+
+WP: Demek, chetete knizhki.
+
+SS: Da TOVA GO ZNAM
+
+WP: Ok. Za drugoto - drugia put.
+
+SS: krai
+
+WP: chao
+
+SS: ok SHE SE VIDIM
+
+WP: ok.. chao
+
+=== Cut ===
+
+
+
+ ▄═─═─═─═─═▄═▄═     =-=-=-=-=-=-=-=-=-=-=-=--==-=-=-=-=-=-=   ▄═─═─═─═─═▄═▄═
+░▀░▄  V.F.U. ▀░▄░   UNIX Самоучител (Продължава от VFU.013)  ░▀░▄  V.F.U. ▀░▄░
+ ═▀═▀═─═─═─═▀═▀═    =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=   ═▀═▀═─═─═─═▀═▀═
+
+
+pooh:~# rm -r * ~
+~: no such file or directory
+
+    *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+~#@!   ATTENTION! Proceedin' furthermore can degrade your motional skills (*&^
+$^*%&^           and make you misbehave properly in society!            #@$^&*
+    *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+baby(1)                  USER COMMANDS                    baby(1)
+
+
+NAME
+     baby - create new process from two parents
+
+SYNOPSIS
+     baby -sex m | f [ -name name ]
+
+DESCRIPTION
+     baby is initiated when  one  parent  process  polls  another
+     server  process  through a socket connection in the BSD ver-
+     sion or through pipes in the System V implementation.   baby
+     runs  at low priority for approximately forty weeks and then
+     terminates with a heavy system load.  Most  systems  require
+     constant  monitoring  when  baby reaches its final stages of
+     execution.
+
+     Older implentations of baby did not require both  initiating
+     processes to be present at the time of completion.  In those
+     versions the initiating process which was  not  present  was
+     awakened  and  notified  of the results upon completion.  It
+     has since been determined that the presence of  both  parent
+     processes result in a generally lower system load at comple-
+     tion, and thus current versions of baby expect  both  parent
+     processes to be active during the final stages.
+
+     Successful completion of baby results in  the  creation  and
+     naming  of  a  new process.  Parent processes then broadcast
+     messages to all other processes, local and remote, informing
+     them of their new status.
+
+OPTIONS
+     -sex define the gender of the created process
+
+     -name
+          assign the name name to the new process
+
+EXAMPLES
+     baby -sex f -name Jacqueline
+
+          completed successfully on July  9,  1992 at 9:11pm.
+          Jacqueline's vital  statistics:  8  pounds 3 oz, 20
+          inches long dark hair.  The parent process, Kim
+          Dunbar, is  reportedly doing fine.
+
+SEE ALSO
+     cigar(6), dump(5), cry(3).
+
+BUGS
+     Despite its complexity, baby only knows one signal, SIGCHLD,
+     (or SIGCLD in the System V implementation), which it uses to
+     contact the parent processes.  One or both parent  processes
+     must then inspect the baby process to determine the cause of
+     the signal.
+
+     The sleep command may not work as expected on either  parent
+     process  for  some  time  afterward, as each new instance of
+     baby sends intermittent  signals  to  the  parent  processes
+     which must be handled by the parents immediately.
+
+     A baby process will frequently dump core,  requiring  either
+     or both parent processes to clean up after it.
+
+     Despite the reams of available documentation on invoking and
+     maintaining baby, most parent processes are overwhelmed.
+
+AUTHORS
+     From a man page by Joe Beck, .
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+LSD(1)              UNIX Programmer's Manual               LSD(1)
+
+
+
+NAME
+     lsd - turn off your mind, relax, and float downstream
+
+SYNOPSIS
+     lsd [ -dsS ] brandname user ...
+
+DESCRIPTION
+     Disturbs the given users according to dosage, set, and setting.
+     If more than one user is specified, each will be affected by the
+     others, according to the arguments they give to lsd on their
+     own terminals or machines.  It is recommended that one of the users
+     in a group specify a dose of 0, and that at least one other user be
+     experienced in using lsd.
+
+     Brandname is usually a blotter pattern, but may be used to specify
+     a non-blotter form, such as "windowpane" or "pyramid."
+
+     There are a number of options, each of which can have a strange and
+     not completely predictable effect on the users:
+
+
+     -d   Dosage.  A dosage of 1 to 3 is recommended for first time
+          users, although strength varies with brandname and storage
+          conditions.
+
+     -s   Set.  Recommended values are "calm," "happy," and "groovy."
+          Sets like "angry," "frustrated," and "bummed" may cause file
+          system damage, and should be avoided.  For these sets, other
+          utilities are available (see "valium").
+
+     -S   Setting.  Recommended are "familiar," "interesting," and
+          "comfortable."  Hostile and challenging settings are reserved
+          for experienced users.
+
+FILES
+     /etc/trips is a log of system-wide use of lsd since booting.
+
+BUGS
+     When invoked with incorrect arguments, lsd will print out a random,
+     Unixy-sounding error message and remove this man page.
+
+     User state should return to normal in twelve hours or less after
+     invoking lsd.  With extreme parameters, however, this cannot always
+     be guaranteed.
+
+     The output device is assumed to be 80 columns wide.
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+SLeePos(zzz)      SleepIX Programmer's Manual           dream(1l)
+
+
+NAME
+     dream - suspend execution for an interval while executing
+             random code in memory
+
+SYNTAX
+     dream [-d][[-nrRsw] [time]]
+
+DESCRIPTION
+     Dream suspends execution of the current proces for time
+     seconds, while simulating a dream sequence by executing random
+     segments of code in memory.  All devices are paralyzed (blocked)
+     to prevent dangerous side-effects.  The options are as follows:
+
+     -d    daydream.  code seems to be more related to the actual
+           suspended process, and suspension will be for a limited
+           amount of time.  Attention can be restored by snapping
+           fingers next to keyboard.
+
+     -n    nightmare.  Repeated references to the system error logs
+           are made during execution.
+
+     -r    recurring.  The code of a previous execution will be
+           re-selected for this dream.
+
+     -R    REM (Rapid Eye Movement).  The current value of the PC is
+           is flashed on the screen for every instruction.
+
+     -s    sleepwalking.  Tape drives will be sent many alternating
+           fast-forward and rewind requests and/or line printers sent
+           many alternating carraige-return and tab codes to promote
+           movement of machine(s) across floor.  Stopping these
+           devices may confuse the program.
+
+     -w    wet dream.  The code is selected from the sex(1l) program.
+
+     Dream will invoke automatically with the -d option when the
+     system proves extremely slow.
+
+     The relation of the randomly-executed code to the subconcious
+     (background tasks) of the current processes is suspected but has
+     not been proven.
+
+WARNING
+     do not select the -w option without covering the keyboard.
+
+SEE ALSO
+     sleep(1), sex(1l), dream(3l), alarm(3C)
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+      PLACE(1)                Parody Systems                  PLACE(1)
+
+
+      NAME
+          place - print and set the system location
+
+      SYNOPSIS
+          place [ [-v] [-]ddmmss[-]dddmmss ] [ +format ]
+
+      DESCRIPTION
+          If no  argument  is given, or if the  argument  begins  with
+          ``+'', the current  location  (latitude and  longitude)  are
+          printed.  Otherwise,   the   current   location  is  set  by
+          teleporting  the  system.  The  first dd is the  degrees  of
+          latitude   (negative  for  south);  mm  is  the  minutes  of
+          latitude;  ss is the seconds of latitude.  The second ddd is
+          the  degrees of  longitude  (negative  for west); and so on.
+          For example:
+
+              place 385100-1050300
+
+          sets the  location  of the system to the top of Pikes  Peak,
+          Colorado.  The correct  altitude is  automatically  provided
+          and  cannot  be  specified.  The  system  operates  in feet.
+          Place  takes  care  of  the  conversion  to and  from  local
+          standard measurement units.
+
+          When a new  location  is set, all  logged-in  terminals  and
+          users  are   transported   along   with  all  other   system
+          peripherals.
+
+          If the -v (verbose)  option is specified when a new location
+          is set, place prints a running  description of the locations
+          the system passes through enroute to the given  destination.
+          Note that this can slow down  transport  time  considerably,
+          from  instantaneous  to  however  long it takes to print the
+          description   to  standard   output.  This   option  is  not
+          recommended  if stdout is a terminal  connected at less than
+          4800  baud,  since  hitting   BREAK  can  leave  the  system
+          stranded.
+
+          Attempting to set the place off-planet  generates a warning,
+          and requires an extra confirmation from the (super)user.
+
+          If the  argument  begins  with ``+'', the output of place is
+          under the control of the user.  The format for the output is
+          similar to that of  date(1).  All  output  fields  which use
+          hours,  minutes,  or  seconds  are  applicable   (substitute
+          "degrees" for hours, where appropriate).
+
+          Place writes an accounting record on the file /usr/adm/wtmp.
+
+      DIAGNOSTICS
+          No permission   If you aren't the super-user  and you try to
+                          move the system.
+
+          bad conversion  If the place set is syntactically incorrect,
+                          or below sea level.
+
+          bad format character
+                          If the field descriptor is not recognizable.
+
+      FILES
+         /dev/kmem
+         /usr/adm/wtmp
+         /usr/lib/altitudes
+
+      AUTHOR
+         Alan Silverstein, Hewlett-Packard
+
+      SEE ALSO
+          date(1), whereami(1), whothefuckami(1)
+
+      BUGS
+          If there is not a supply of compatible electric power at the
+          new  location,  the  system  usually  crashes  before  place
+          finishes writing accounting information to /usr/adm/wtmp.
+
+          This  command  should not be used on systems  connected to a
+          Local Area Network, for obvious reasons.
+
+      
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+     NCM(1)                  (Essential Fluids)                 NCM(1)
+
+
+
+     NAME
+          ncm - new coffee maker
+
+     SYNOPSIS
+          ncm [ -RadCxmlnogrtucpFbqisf ] [caf|decaf|columbian]
+
+     DESCRIPTION
+         For each available heating unit, ncm determines if coffee
+         exists, is hot, and is not tar(4).  If any of these are
+         true, the necessary actions are taken to change the
+         situation as required, or as specified by the environment
+         variable BURNERS.  ncp then gathers the necessary material
+         and proceeds.  The -M option makes coffee in the morning.
+         The drinkinfo(4) database is used to determine the blend and
+         the amount of caffeine, based on the environment variables
+         DRINK, TZ, and the current time.  If this information cannot
+         be obtained, full strength Maxwell House is assumed.
+
+         The ncm command has many, many more than the following
+         options, not all of which are currently supported.  Some may
+         never be supported.  We are really busy here, and we will
+         try to get around to it as soon as possible, but Doc is
+         breathing down my neck to get something else done, so you
+         will just have to be patient!:
+
+         -R   Recursively make coffee until all resources are
+              exhausted.
+
+         -a   Generate aroma only.
+
+         -l   The same as -n except slower.
+
+         -d   Brew decaf.  Will not operate before 10:30 am.
+
+         -n   The same as -l
+
+         -j   Use Jamaica Blue Mountain primo special.  This can only
+              be executed by coffeadmin.
+
+         -r   Reverse the order of brewing to get newest first or
+              oldest first as appropriate.
+
+         -v   Execute the vgrind(1) program before proceeding for a
+              fresher brew.
+
+     EXAMPLES
+               ncp -ldm NOW!
+
+          Make lots of coffee now!
+
+     FILES
+          /etc/grinder
+          /etc/filter
+
+     SEE ALSO
+          tee(1), coke(1), sync(1).
+
+     NOTES
+          The ncm command may be used as a filter.
+
+          For more information see the "Making Good Coffee" section of
+          Chapter 10 of the Kitchen Administrator's Guide.
+
+     BUGS
+          Ick. I hope not.
+
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+SEX(1)              EUNUCHs Programmer's Manual               SEX(1)
+
+NAME
+     sex - have sex
+SYNOPSIS
+     sex [ options ] ...  [ username ] ...
+DESCRIPTION
+     sex allows the invoker to have sex with the user(s) speci-
+     fied in the command line.  If no users are specified, they
+     are taken from the LOVERS environment variable.  Options to
+     make things more interesting are as follows:
+     -1   masturbate
+     -a   external stimulus (aphrodisiac) option
+     -b   buggery
+     -B
+        bestiality with
+     -c   chocolate sauce option
+     -C   chaining option (cuffs included) (see also -m -s -W)
+     -d
+          get a date with the features described in
+     -e   exhibitionism (image sent to all machines on the net)
+     -f   foreplay option
+     -i   coitus interruptus (messy!)
+     -j   jacuzzi option (California sites only)
+     -l   leather option
+     -m   masochism (see -s)
+     -M   triple parallel (Menage a Trois) option
+     -n   necrophilia (if target process is not dead, program
+          kills it)
+     -o   oral option
+     -O   parallel access (orgy)
+     -p   debug option (proposition only)
+     -P   pedophilia (must specify a child process)
+     -q   quickie (wham, bam, thank you, ma'am)
+     -s   sadism (target must set -m)
+     -S   sundae option
+     -v   voyeurism (surveys the entire net)
+     -w   whipped cream option
+     -W   whips (see also -s, -C, and -m)
+
+ENVIRONMENT
+     LOVERS
+       is a list of default partners which will be used if
+          none are specified in the command line.  If any are
+          specified, the values in LOVERS is ignored.
+
+FILES
+     /usr/lib/sex/animals          animals for bestiality
+     /usr/lib/sex/blackbook        possible dates
+     /usr/lib/sex/sundaes          sundae recipes
+     /usr/lib/sex/s&m            sado-masochistic equipment
+
+
+BUGS
+     ^C (quit process) may leave the user very unsatisfied.
+     ^Z (stop process) is usually quite messy.
+MAN AUTHOUR
+     Sean Philip Engelson (spe@cad) at Carnegie-Mellon University
+
+HISTORY
+     Oldest program ever.
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+
+RR(1)                     USER COMMANDS                     RR(1)
+
+
+
+NAME
+     rr - Russian roulette
+
+SYNOPSIS
+     rr
+
+DESCRIPTION
+     rr executes a random command from one of the directories  in
+     the  user's  PATH  environment  variable.   The  command  is
+     invoked with arguments
+
+          -fr $HOME
+
+DIAGNOSTICS
+     `. not found' - Consult an expert.
+
+FILES
+     None (if you hit the jackpot).
+
+SEE ALSO
+     kill(1), kill(2)
+
+BUGS
+     Some commands do not understand the game: they keep  whining
+     about `unknown options.'
+     Please     send     bug     reports     to    Hacker Cracker
+     (Postmaster@vfu.hcb.bg).
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+Sequent:
+
+% strings unix | grep sorry
+sorry, pid %d was killed due to unsupported system call
+sorry, pid %d was killed due to %s
+%
+
+DecStation:
+
+% strings vmunix | grep sorry
+sorry, pid %d was killed: %s
+sorry, pid %d was killed on swap error
+%
+
+Sun/Soulbourne:
+
+% strings vmunix | grep sorry
+sorry, pid %d was killed due to swap problems in %s
+%
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+    *   % !1997
+
+1997: Event not found.  # (on some systems)
+
+    *   % How's my lovemaking?
+
+Unmatched '.
+
+    *   % ^How did the sex change^ operation go?
+
+Modifier failed.
+
+    *   % ^How did the sex change operation go?
+
+Bad substitute.
+
+    *   % sh
+
+$ PATH=pretending! /usr/ucb/which sense
+
+no sense in pretending!
+
+    *   $ mkdir matter; cat >matter
+
+matter: cannot create
+
+    *   % cd /tmp
+
+        % touch this; chmod 000 this
+
+        % ln -s /usr/bin/touch U
+
+        % U this
+
+U: cannot touch this: no write permission
+
+    *   % rm meese-ethics
+
+rm: meese-ethics nonexistent
+
+    *   % make love
+
+Make: Not war!
+
+    *   % ^What is saccharine?
+
+Bad substitute.
+
+    *   % alias alias alias
+
+alias: Too dangerous to alias that.
+
+    *   % write desert
+
+desert is not logged on.
+
+    *   % man you
+
+No manual entry for you.
+
+    *   % !bluemoon
+
+bluemoon: Event not found.
+
+    *   % scan for <<"Arnold Schwarzenegger"^J^D
+
+"Arnold Schwarzenegger": << terminator not found
+
+    *   % cat 'the can of tuna'
+
+cat: cannot open the can of tuna
+
+    *   % rm Quayle-brains
+
+rm: Quayle-brains nonexistent
+
+
+    *   % look into "my eyes"
+
+look: cannot open my eyes
+
+    *   %touch me
+
+        %chmod 000 me
+
+        %touch me
+
+touch: cannot touch me: permission denied
+
+    *   % ar x "my love life"
+
+ar: my love life does not exist
+
+    *   % ar x "matey the treasure"
+
+ar: matey, the tresure does not exist
+
+    *   % talk Gorvachev@Kremlin
+
+talk: Kremlin: Can't figure out network address.
+
+    *   % talk Comrade Khruchev
+
+[Your party is not logged on]
+
+
+    *   % echo '[q]sa[ln0=aln256%Pln256/snlbx]sb3135071790101768542287578439snlbxq'|dc
+
+GET A LIFE!
+
+    *   % ping elvis.rice.edu | awk '{print substr($1,1,5), $2, $3}'
+
+elvis is alive
+
+    *   % finger huge-keg-party@big-house
+
+Unknown host
+
+    *   % make ' ' bang ' ' with gun
+
+make: Fatal error: Don't know how to make target ` '
+
+
+
+               .            >>>--------->
+             : .
+            \\\.
+      >>>---(Oo)--->
+            /C \            Вирус за вас. Независимо файлово издание.
+           /___/\
+           \  U /          Редакцията временно е на хавайските острови.
+      Hic!  >__<  C|c|
+           / \/ \//|_|                                       Край на брой 14.
+          //|  |\/                          >>>--------->
+
+
+
